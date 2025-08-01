@@ -23,7 +23,7 @@ To create a visually appealing and interactive **data story** around athlete ear
 
 ## 🖼️ Dashboard Preview
 
-![Athletes Earnings Dashboard](Athelete-Dashboard/athelete-dashboard.gif)
+<img src="https://raw.githubusercontent.com/Suba1902/Tableau-Projects/main/Athelete-Dashboard/athelete-dashboard.gif" width="100%">
 
 ---
 
@@ -32,15 +32,7 @@ To create a visually appealing and interactive **data story** around athlete ear
 - 🎯 **Dynamic KPIs**: Update in real-time based on selected sport or athlete.
 - 🏅 **Top Earners Highlights**: Clearly shows who earns the most overall, on-field, and off-field.
 - 📈 **Radial Chart**: Compares total earnings across sports. 
-<p align="left">
-  <img src="Athelete-Dashboard/Radial Chart.png" alt="Radial Chart" width="400">
-</p>
-
 - 🧩 **Orbit Visuals**: Show percentage of off-field vs on-field earnings by sport.
-
-- <p align="left">
-  <img src="Athelete-Dashboard/Orbit Chart Off-field.png" alt="Orbit Chart Off-field" width="350">  <img src="Athelete-Dashboard/Orbit Chart On Field.png" alt="Orbit Chart On Field" width="350">
-</p>
 - 🎛️ **Filter Panel**: Allows slicing data to view focused insights.
  
 ---
