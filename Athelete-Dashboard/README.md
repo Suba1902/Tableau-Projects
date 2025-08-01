@@ -82,4 +82,4 @@ To create a visually appealing and interactive **data story** around athlete ear
 
 ## Data source - https://data.world/makeovermonday
 
-**Subashini Nayakam**  
+**Subashini Pallavi**  
